@@ -32,9 +32,7 @@ This project analyzes the performance of Facebook ad campaigns for GlobalShala's
 
 ## Files Included
 
-- `Dashboard.pbix` – Power BI dashboard
-- `Analysis.ipynb` – Python analysis notebook
-- `Report.pdf` – Full report with findings and recommendations
+- `Excelerate_Analysis_and_Report.pdf` – Full report with findings, visualizations, and recommendations
 
 ---
 
